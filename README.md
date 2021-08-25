@@ -1,1 +1,1 @@
-# herg_eg
+# generic
